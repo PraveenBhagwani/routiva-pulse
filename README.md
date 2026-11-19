@@ -194,7 +194,7 @@ This PL/pgSQL function bundles the watchlist, run logs, recent decisions, tone s
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/YOUR_USERNAME/routiva-pulse.git
+git clone https://github.com/PraveenBhagwani/routiva-pulse.git
 cd routiva-pulse
 npm install
 ```
